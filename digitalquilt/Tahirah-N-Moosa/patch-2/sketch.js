@@ -74,7 +74,7 @@ let mySound; //ZapSplat (n.d.)
 
 
 function preload(){
-  gradient = loadImage("grad.JPG"); //Ombre Sunset Colors Wallpaper (n.d.)
+  gradient = loadImage("grad.jpg"); //Ombre Sunset Colors Wallpaper (n.d.)
   solar = loadImage("sun.png")
   mySound = loadSound("nature.mp3"); //sound played through animation
 }
